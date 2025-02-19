@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Aula 01 - Conceito Básicos/src"/>
+	<classpathentry kind="src" path="Aula 02 - Variaveis/src"/>
+	<classpathentry kind="output" path="Aula 02 - Variaveis/bin"/>
+</classpath>
